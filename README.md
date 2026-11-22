@@ -78,9 +78,18 @@ Consistency over perfection. 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/omii2007/Java-DSA-LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omii2007/Java-DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/omii2007/Java-DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/omii2007/Java-DSA-LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/omii2007/Java-DSA-LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
