@@ -72,3 +72,15 @@ Java
 
 Consistency over perfection. 🚀
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/omii2007/Java-DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/omii2007/Java-DSA-LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+<!---LeetCode Topics End-->
